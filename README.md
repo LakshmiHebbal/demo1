@@ -1,2 +1,3 @@
 # demo1
-my first git repository
+My first Git Repository
+Author-Lakshmi
